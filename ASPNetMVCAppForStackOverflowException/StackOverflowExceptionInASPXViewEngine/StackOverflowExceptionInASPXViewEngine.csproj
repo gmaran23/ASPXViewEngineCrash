@@ -15,7 +15,7 @@
     <AssemblyName>StackOverflowExceptionInASPXViewEngine</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <MvcBuildViews>false</MvcBuildViews>
-    <UseIISExpress>false</UseIISExpress>
+    <UseIISExpress>true</UseIISExpress>
     <IISExpressSSLPort />
     <IISExpressAnonymousAuthentication />
     <IISExpressWindowsAuthentication />
@@ -185,7 +185,7 @@
           <AutoAssignPort>True</AutoAssignPort>
           <DevelopmentServerPort>57293</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>http://localhost:8000/StackOverflowExceptionInASPXViewEngine</IISUrl>
+          <IISUrl>http://localhost:57293/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>
